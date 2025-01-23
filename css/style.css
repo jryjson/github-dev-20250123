@@ -1,0 +1,17 @@
+h1{
+    font-family: Arial;
+    color: red;
+    font-size: 40px;
+}
+p{
+    color: orange;
+    font-size: 14 px;
+    line-height: 130%;
+}
+h2{
+    color: orange;
+    font-size: 30px;
+}
+ul{
+    list-style: none;
+}
